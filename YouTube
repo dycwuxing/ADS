@@ -1,4 +1,5 @@
 #YouTube
+/^[a-z0-9]+-+sn-+[a-z0-9]+-+[a-z0-9]+\.googlevideo\.com$/
 /googleads.$~script,domain=~googleads.github.io
 /pagead/lvz?
 ||google.com/pagead/
@@ -8,3 +9,8 @@
 ||*.youtube.com/pagead*
 ||*.youtube.com/ptracking*
 ||*.youtube.com/api/stats/qoe*adformat*
+||youtube.com/api/stats/ads
+||youtube.com/pagead/adview
+||yt3.ggpht.com^
+||youtube.com/pcs/activeview
+||youtube.com/get_video_info
