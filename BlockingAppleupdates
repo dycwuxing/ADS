@@ -1,10 +1,15 @@
 #屏蔽苹果OTA更新
+#https://sysin.org/blog/disable-ios-update/ 搜索关键字“设备软件更新使用的主机和端口列表”
 ||xp.apple.com^
 ||gdmf.apple.com^
 ||mesu.apple.com^
-#||ocsp.int-x3.letsencrypt.org^
-||ocsp.apple.com^
-||world-gen.g.aaplimg.com^
-#||swscan.apple.com^
-#||lcdn-locator.apple.com^
+||gg.apple.com^
 ||appldnld.apple.com^
+||ns.itunes.apple.com^
+||updates-http.cdn-apple.com^
+||updates.cdn-apple.com^
+||ocsp.apple.com^
+||ocsp.int-x3.letsencrypt.org^
+||world-gen.g.aaplimg.com^
+||swscan.apple.com^
+||lcdn-locator.apple.com^
