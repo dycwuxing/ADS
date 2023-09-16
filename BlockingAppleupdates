@@ -9,7 +9,7 @@
 ||updates-http.cdn-apple.com^
 ||updates.cdn-apple.com^
 ||ocsp.apple.com^
-||ocsp.int-x3.letsencrypt.org^
-||world-gen.g.aaplimg.com^
+#||ocsp.int-x3.letsencrypt.org^
+#||world-gen.g.aaplimg.com^
 ||swscan.apple.com^
-||lcdn-locator.apple.com^
+#||lcdn-locator.apple.com^
