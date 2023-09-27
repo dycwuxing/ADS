@@ -1,3 +1,4 @@
+#widows
 ||windowsupdate.microsoft.com^
 ||update.microsoft.com^
 ||windowsupdate.microsoft.com^
@@ -5,3 +6,5 @@
 ||wustat.windows.com^
 ||ntservicepack.microsoft.com^
 ||test.stats.update.microsoft.com^
+#office
+||officecdnmac.microsoft.com #mac_office升级提醒 Microsoft Auto Update
